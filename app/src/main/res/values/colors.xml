@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--侧滑菜单头部的背景颜色-->
+    <color name="light_menu_header_background">@android:color/holo_blue_dark</color>
+    <color name="dark_menu_header_background">@android:color/black</color>
+
+    <!--侧滑菜单item的背景颜色-->
+    <color name="light_menu_rc_checked_background">#F0F0F0</color>
+    <color name="light_menu_rc_unchecked_background">#FFFFFF</color>
+</resources>
